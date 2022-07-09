@@ -1,0 +1,23 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tour-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tour-container img {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.tour-container .info {
+  width: 600px;
+}
